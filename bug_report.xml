@@ -1,0 +1,8 @@
+    <Summary>the ability to log in to the user with the year of birth 2006</Summary"
+    <Pre-conditions>website is open</Pre-conditions>
+    <STR>1.go to website, 2.in the specify your of birth field,specify 2006,3.click ok</STR>
+    <ER>the inability to log in</ER>
+    <AR>the ability to log in</AR>
+    <Severity>Critical</Severity>
+    <Priority>Hight</Priority>
+    <Environment>Windows10</Environment>            
