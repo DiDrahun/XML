@@ -1,3 +1,5 @@
-       <BasicTheory>tecting,SDLC,STLC<BasicTheory>
-       <CSA>true<CSA>
-       <HTTPMethods>true<HTTPMethods>
+ <skills>
+	 <BasicTheory>tecting,SDLC,STLC</BasicTheory>
+	 <CSA>true</CSA>
+	 <HTTPMethods>true</HTTPMethods>
+ </skills>	 

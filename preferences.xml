@@ -1,5 +1,7 @@
-         <FavoriteMovie>Knockin' on heaven's door<FavoriteMovie>
-         <FavoriteTVSeries>friends<FavoriteTVSeries>
-         <FavoriteFood>Draniki<FavoriteFood>
-         <FavoriteTimeOfYear>summer<FavoriteTimeOfYear>
-         <CountryYouWouldLikeToVisit>USA<CountryYouWouldLikeToVisit>
+ <preference>
+	 <FavoriteMovie>Knockin' on heaven's door</FavoriteMovie>
+	 <FavoriteTVSeries>friends</FavoriteTVSeries>
+	 <FavoriteFood>Draniki</FavoriteFood>
+	 <FavoriteTimeOfYear>summer</FavoriteTimeOfYear>
+	 <CountryYouWouldLikeToVisit>USA</CountryYouWouldLikeToVisit>
+ </preference>
